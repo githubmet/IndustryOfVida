@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sibermete.industryofvida">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".P106Vidalar">
+            <intent-filter>
+                <category android:name="android.intent.category.LAUNCHER"></category>
+                <action android:name="android.intent.action.MAIN"></action>
+            </intent-filter>
+        </activity>
+        <activity android:name=".P106VidaCesidi"></activity>
+        <activity android:name=".P106VidaKafasi"></activity>
+        <activity android:name=".P107VidaBoyu"></activity>
+        <activity android:name=".P108PercinBoyu"></activity>
+        <activity android:name=".P111GetAllData"></activity>
+        <activity android:name=".P112MetrikVidaTur"></activity>
+        <activity android:name=".P113SacVidaTur"></activity>
+        <activity android:name=".P114SuntaVidaTur"></activity>
+        <activity android:name=".P115SacVidaBoyu"></activity>
+        <activity android:name=".P116SuntaVidaBoyu"></activity>
+
+
+    </application>
+
+</manifest>

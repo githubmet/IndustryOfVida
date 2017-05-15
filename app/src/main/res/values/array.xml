@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vida_mazemesi">
+        <item>Demir</item>
+        <item>Paslanmaz</item>
+    </string-array>
+
+    <string-array name="vida_cesidi">
+        <item>Metrik</item>
+        <item>Sac vidasi</item>
+        <item>Sunta Vidasi</item>
+        <item>Plastik</item>
+
+    </string-array>
+
+    <string-array name="metrik_vida_tur">
+        <item>M4</item>
+        <item>M5</item>
+        <item>M6</item>
+    </string-array>
+    <string-array name="metrik_vida_boyu">
+        <item>5.00</item>
+        <item>6.00</item>
+        <item>8.00</item>
+        <item>10.00</item>
+        <item>12.00</item>
+        <item>15.00</item>
+        <item>20.00</item>
+        <item>25.00</item>
+        <item>30.00</item>
+        <item>35.00</item>
+        <item>40.00</item>
+        <item>45.00</item>
+        <item>50.00</item>
+        <item>55.00</item>
+        <item>60.00</item>
+        <item>65.00</item>
+        <item>70.00</item>
+        <item>75.00</item>
+        <item>80.00</item>
+        <item>90.00</item>
+        <item>100.00</item>
+    </string-array>
+
+
+    <string-array name="vida_kafasi">
+        <item>YHB</item>
+        <item>YSB</item>
+        <item>YMB</item>
+        <item>RYSB</item>
+        <item>RYHB</item>
+        <item>THB</item>
+        <item>TSB</item>
+        <item>TMB</item>
+    </string-array>
+
+    <string-array name="sac_vida_tur">
+        <item>2.90</item>
+        <item>3.50</item>
+        <item>3.90</item>
+        <item>4.20</item>
+        <item>4.80</item>
+        <item>5.50</item>
+        <item>6.30</item>
+    </string-array>
+
+    <string-array name="sac_vida_boyu">
+        <item>6.50</item>
+        <item>9.50</item>
+        <item>13.00</item>
+        <item>18.00</item>
+        <item>19.00</item>
+        <item>22.00</item>
+        <item>25.00</item>
+        <item>32.00</item>
+        <item>38.00</item>
+        <item>45.00</item>
+        <item>50.00</item>
+        <item>60.00</item>
+        <item>70.00</item>
+    </string-array>
+    <string-array name="sunta_vida_tur">
+        <item>3.00</item>
+        <item>3.50</item>
+        <item>4.00</item>
+        <item>4.50</item>
+        <item>5.00</item>
+        <item>6.00</item>
+    </string-array>
+
+
+
+
+
+
+</resources>

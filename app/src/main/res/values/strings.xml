@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IndustryOfVida</string>
+    <string name="vida_mazemesi_p106">Vidanın mazemesini seçiniz</string>
+    <string name="vida_cesidi_p106">Vida Cesidini Seciniz</string>
+    <string name="vida_kafa_tipi_p106">Vida Kafa Tipini Seciniz</string>
+    <string name="vida_boyu_p107">Vida boyunu seciniz</string>
+    <string name="percin_boyu_p108">Percin boyunu giriniz</string>
+    <string name="hello_p109">hello</string>
+    <string name="it_is_p109">it is</string>
+    <string name="me_p109">me</string>
+    <string name="again_p109">again</string>
+    <string name="percin_boyu_giriniz_p108">Lütfen percin boyunu giriniz!</string>
+    <string name="accepted_p108">Accepted</string>
+    <string name="succesful_p108">succeful</string>
+    <string name="all_data_P106">All data</string>
+    <string name="temizlik_P111">Temizlik</string>
+    <string name="temizlik_ok_or_not_p111">Secili kayiti silmek istediginizden eminmisiniz?</string>
+    <string name="iptal_p111">Isleminiz iptal edildi</string>
+
+
+    <string name="hello">Hello world, starting point</string>
+</resources>
